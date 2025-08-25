@@ -10,7 +10,8 @@ This project is a Java console application that manages a simple telephone direc
 - Supports deletions (by exact match of name, address, and phone)
 - Saves the updates back into the file
 - Displays the updated directory
-- This was created as part of Case Study 5 for my Object-Oriented Programming Class.
+
+This was created as part of Case Study 5 for my Object-Oriented Programming Class.
 
 ## ▶️ How to Run:
 1. Requirements
