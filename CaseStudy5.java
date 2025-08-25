@@ -1,6 +1,5 @@
 /**
  * Uy, Chenny A.
- * BSIT 2-5
  * Case Study 5 - This is a program that will store and update a small telephone directory file "telephoneDirectory.txt".
  * It prints the original directory and allows user to make insertions and deletions to the record.
  * It then prints the final directory in alphabetical order.
@@ -151,3 +150,4 @@ public class CaseStudy5 {
         printUpdatedList();                 // Call the method that will display the updated directory records
     }   
 }
+
